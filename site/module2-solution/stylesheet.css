@@ -3,3 +3,11 @@ body {
 	font-family: Comic;
 	font: green;
 }
+
+.item {
+	background: gray;
+}
+
+.title {
+	background yellow;
+}
