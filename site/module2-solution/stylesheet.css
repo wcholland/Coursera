@@ -1,14 +1,14 @@
-head {
-	font-size: 50px;
-	font-family: Tahoma;
-	font: red;
-	text-align: center;
-}
-
 body {
 	font-size: 24px;
 	font-family: Comic;
-	font: green;
+	color: green;
+}
+
+.header {
+	font-size: 50px;
+	font-family: Tahoma;
+	color: red;
+	text-align: center;
 }
 
 .item {
