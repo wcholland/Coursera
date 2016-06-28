@@ -1,9 +1,3 @@
-body {
-	font-size: 24px;
-	font-family: Comic;
-	font: green;
-}
-
 head {
 	font-size: 50px;
 	font-family: Tahoma;
@@ -11,11 +5,17 @@ head {
 	text-align: center;
 }
 
+body {
+	font-size: 24px;
+	font-family: Comic;
+	font: green;
+}
+
 .item {
 	background: #717174;
 	width: 30%;
 	float: left;
-	clear: left;
+	margin: 3px;
 }
 
 .title {
