@@ -1,11 +1,19 @@
 body {
-	font-size: 12px;
+	font-size: 24px;
 	font-family: Comic;
 	font: green;
 }
 
+title {
+	font-size: 50px;
+	font-family: Tahoma;
+	font: red;
+	text-align: center;
+}
+
 .item {
-	background: gray;
+	background: #717174;
+	width: 30%;
 }
 
 .title {
