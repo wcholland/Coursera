@@ -14,6 +14,8 @@ head {
 .item {
 	background: #717174;
 	width: 30%;
+	float: left;
+	clear: left;
 }
 
 .title {
