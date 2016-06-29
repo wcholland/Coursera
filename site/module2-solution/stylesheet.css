@@ -1,18 +1,18 @@
 body {
 	font-size: 24px;
 	font-family: Comic;
-	color: green;
+	color: #000000;
 }
 
 #topTitle {
-	font-size: 50px;
+	font-size: 40px;
 	font-family: Tahoma;
 	color: red;
 	text-align: center;
 }
 
 .item {
-	background: #717174;
+	background: #9c9c9c;
 	width: 30%;
 	float: left;
 	margin: 3px;
@@ -20,5 +20,8 @@ body {
 
 .title {
 	background yellow;
-	border: 10px;
+	border: 10px black;
+	position: relative;
+	top: 10%;
+	right: 20%;
 }
