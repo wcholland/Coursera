@@ -14,9 +14,9 @@ body {
 
 .item {
 	background: #9c9c9c;
-	width: 30%;
-	float: left;
-	margin: 3px;
+	/* width: 30%;
+	float: right;  
+	margin: 3px; */
 }
 
 div.title {
@@ -24,7 +24,7 @@ div.title {
 	border: 10px black;
 	position: relative;
 	top: 0px;  /* from top */
-	left: 0px;
+	right: 0px; 
 }
 
 
