@@ -14,7 +14,7 @@ body {
 
 .item {
 	background: #9c9c9c;
-	margin: 5px;
+	border: 5px;
 	/* width: 30%;
 	float: right;  
 	margin: 3px; */
