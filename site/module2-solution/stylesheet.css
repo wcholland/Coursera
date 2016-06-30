@@ -25,6 +25,8 @@ div.title {
 	position: absolute;
 	top: 0px;  /* from top */
 	right: 0px; 
+	float: right;
+	width: 25%;
 }
 
 
