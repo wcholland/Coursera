@@ -14,19 +14,20 @@ body {
 
 .item {
 	background: #9c9c9c;
+	margin: 5px;
 	/* width: 30%;
 	float: right;  
 	margin: 3px; */
 }
 
 div.title {
-	background: yellow;
+	background: #52aec9;
 	border: 10px black;
 	position: relative;
 	top: 0px;  /* from top */
 	right: 0px; 
 	float: right;
-	width: 25%;
+	width: 30%;
 }
 
 
@@ -35,7 +36,7 @@ div.title {
 @media (min-width: 992px) {
 	.col-lg-4 {
 	float: left;
-	border: 10px black;
+	/* border: 10px black; */
 }
 .col-lg-4{
 	width: 33.33%;
@@ -46,7 +47,7 @@ div.title {
 @media (min-width: 769px) and (max-width: 991px) {
 	.col-md-6 {
 	float: left;
-	border: 5px black;
+	/* border: 5px black; */
 }
 .col-md-6 {
 	width: 50%;
@@ -58,7 +59,7 @@ div.title {
 @media (max-width: 768) {
 	.col-sm-12 {
 		float: left;
-		border: 1px black;
+		/* border: 1px black; */
 	}
 .col-sm-12 {
 	width: 100%;
