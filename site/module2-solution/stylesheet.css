@@ -14,13 +14,13 @@ body {
 
 .item {
 	background: #9c9c9c;
-	border: 5px;
+	border: 5px black;
 	/* width: 30%;
 	float: right;  
 	margin: 3px; */
 }
 
-div.title {
+.title {
 	background: #52aec9;
 	position: relative;
 	top: 0px;  /* from top */
