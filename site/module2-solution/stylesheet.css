@@ -22,7 +22,6 @@ body {
 
 div.title {
 	background: #52aec9;
-	border: 10px black;
 	position: relative;
 	top: 0px;  /* from top */
 	right: 0px; 
@@ -39,7 +38,7 @@ div.title {
 	/* border: 10px black; */
 }
 .col-lg-4{
-	width: 33.33%;
+	width: 30%;
 }
 }
 
@@ -50,7 +49,7 @@ div.title {
 	/* border: 5px black; */
 }
 .col-md-6 {
-	width: 50%;
+	width: 45%;
 }
 }
 
@@ -62,7 +61,7 @@ div.title {
 		/* border: 1px black; */
 	}
 .col-sm-12 {
-	width: 100%;
+	width: 90%;
 }	
 }
 
