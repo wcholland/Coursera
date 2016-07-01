@@ -12,7 +12,7 @@ body {
 	text-align: center;
 }
 
-body.div.item {
+div.item {
 	background: #9c9c9c;
 	border: 5px;
 	border-color: black;
@@ -23,7 +23,7 @@ body.div.item {
 	margin: 3px; */
 }
 
-body.div.title {
+div.title {
 	background: #52aec9;
 	position: relative;
 	top: 0px;  /* from top */
