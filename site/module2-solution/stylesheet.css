@@ -12,9 +12,12 @@ body {
 	text-align: center;
 }
 
-.item {
+div.item {
 	background: #9c9c9c;
-	border: 5px black;
+	border: 5px;
+	border-color: black;
+
+
 	/* width: 30%;
 	float: right;  
 	margin: 3px; */
