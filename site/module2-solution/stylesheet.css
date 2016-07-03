@@ -13,7 +13,7 @@ body {
 	border: 1px black;
 }
 
-div.item {
+.item {
 	background: #9c9c9c;
 	border: 5px;
 	border-color: black;
@@ -24,7 +24,7 @@ div.item {
 	margin: 3px; */
 }
 
-div.title {
+.title {
 	background: #52aec9;
 	position: relative;
 	top: 0px;  /* from top */
