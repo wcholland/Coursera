@@ -16,12 +16,6 @@ body {
 .item {
 	background: #9c9c9c;
 	border: 5px;
-	border-color: black;
-
-
-	/* width: 30%;
-	float: right;  
-	margin: 3px; */
 }
 
 .title {
@@ -31,8 +25,7 @@ body {
 	right: 0px; 
 	float: right;
 	width: 30%;
-	border: 1px;
-	border-color: black;
+	margin: 1px black;
 }
 
 
