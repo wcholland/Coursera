@@ -10,8 +10,6 @@ body {
 	font-family: Tahoma;
 	color: red;
 	text-align: center;
-	border-color: black;
-	border-radius: 40%;
 }
 
 .item {
@@ -19,6 +17,8 @@ body {
 	margin: 5px;
 	border-color: black;
 	box-sizing: border-box;
+	border-color: black;
+	border-radius: 40%;
 }
 
 .title {
