@@ -11,12 +11,13 @@ body {
 	color: red;
 	text-align: center;
 	border-color: black;
+	border-radius: 40%;
 }
 
 .item {
 	background: #9c9c9c;
 	margin: 5px;
-	border-color: black
+	border-color: black;
 	box-sizing: border-box;
 }
 
