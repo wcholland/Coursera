@@ -3,7 +3,6 @@ body {
 	font-size: 24px;
 	font-family: Comic;
 	color: #000000;
-	box-sizing: border-box;
 }
 
 #topTitle {
@@ -17,6 +16,7 @@ body {
 .item {
 	background: #9c9c9c;
 	border: 5px;
+	box-sizing: border-box;
 }
 
 .title {
@@ -27,6 +27,7 @@ body {
 	float: right;
 	width: 30%;
 	margin: 1px black;
+	box-sizing: border-box;
 }
 
 
