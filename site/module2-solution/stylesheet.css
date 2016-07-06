@@ -10,12 +10,13 @@ body {
 	font-family: Tahoma;
 	color: red;
 	text-align: center;
-	border: 1px black;
+	border-color: black;
 }
 
 .item {
 	background: #9c9c9c;
-	border: 5px;
+	margin: 5px;
+	border-color: black
 	box-sizing: border-box;
 }
 
