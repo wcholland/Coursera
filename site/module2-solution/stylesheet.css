@@ -15,9 +15,9 @@ body {
 .item {
 	background: #9c9c9c;
 	margin: 5px;
-	border-color: black;
+	border-color: red;
+	border: 5px;
 	box-sizing: border-box;
-	border-color: black;
 	border-radius: 10%;
 }
 
