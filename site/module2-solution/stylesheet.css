@@ -15,10 +15,9 @@ body {
 .item {
 	background: #9c9c9c;
 	margin: 5px;
-	border-color: red;
-	border: 5px;
+	border: 2px solid red;
 	box-sizing: border-box;
-	border-radius: 10%;
+	border-radius: 5%;
 }
 
 .title {
@@ -32,6 +31,7 @@ body {
 	box-sizing: border-box;
 	text-align: center;
 	border-radius: 5%;
+	border: 2px solid black;
 }
 
 
